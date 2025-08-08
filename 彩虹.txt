@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://example.com/logo_jingyan.png" group-title="成人",驚艷
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://example.com/logo_pandora.png" group-title="成人",潘朵拉完美
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://example.com/logo_xiangjiao.png" group-title="成人",香蕉台
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://example.com/logo_songshi1.png" group-title="成人",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://example.com/logo_songshi2.png" group-title="成人",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://example.com/logo_songshi3.png" group-title="成人",松視3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/90.ts
